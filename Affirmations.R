@@ -2,4 +2,4 @@
 Making this script. Feeling good.
 ##########
 
-Affirmations<- c("You", "are", "enough")
+Affirmations<- c("You", "are", "enough","and", "poppin")
